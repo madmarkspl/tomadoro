@@ -4,9 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tomadoro"
+        xmlns:views="clr-namespace:Tomadoro.Views"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="Tomadoro" SizeToContent="WidthAndHeight" ShowInTaskbar="False" Topmost="True" ResizeMode="NoResize" Background="White" Visibility="Visible">
+    <views:BasicView />
 </Window>
