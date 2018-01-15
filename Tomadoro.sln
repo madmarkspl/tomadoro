@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomadoro", "Tomadoro\Tomadoro.csproj", "{44108A40-69E8-4BE3-A862-6DD6A32687F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomadoro.Tests", "Tomadoro.Tests\Tomadoro.Tests.csproj", "{14DA6DC5-D151-41B9-B154-C3A0B2CF7EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44108A40-69E8-4BE3-A862-6DD6A32687F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44108A40-69E8-4BE3-A862-6DD6A32687F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44108A40-69E8-4BE3-A862-6DD6A32687F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44108A40-69E8-4BE3-A862-6DD6A32687F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DA6DC5-D151-41B9-B154-C3A0B2CF7EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DA6DC5-D151-41B9-B154-C3A0B2CF7EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DA6DC5-D151-41B9-B154-C3A0B2CF7EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DA6DC5-D151-41B9-B154-C3A0B2CF7EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C553B716-2E64-43ED-A2E1-091BC204F2EB}
+	EndGlobalSection
+EndGlobal
